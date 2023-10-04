@@ -1,0 +1,12 @@
+<!DOCTYPEhtml>
+  <html>
+  <head>
+  <title>BerlatihPHP</title>
+  </head>
+  <body>
+  <?php
+  $hello="HelloWorld";
+  echo"<h1>".$hello."</h1>";
+  ?>
+  </body>
+  </html> 
